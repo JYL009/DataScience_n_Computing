@@ -8,7 +8,7 @@ I was able to learn data structure with Python through this project.
 
 ## 📋 Description about the website
 #### 소개 (Introduction)
-  > 관리자 기준으로 노래방의 곡을 관리하고 사용자 기준으로 예약할 수 있는 시스템 개발\
+  > 관리자 기준으로 노래방의 곡을 관리하고 사용자 기준으로 예약할 수 있는 시스템 개발
 #### 기술 스택 (Tech Stack)
   > Python
 
